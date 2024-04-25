@@ -1,0 +1,661 @@
+{
+  "header": {
+    "column_names": [
+      "Číslo bytu",
+      "Poschodie",
+      "Počet izieb",
+      "Plocha bytu (m2)",
+      "Terasa 1(m2)",
+      "Terasa 2(m2)",
+      "Celk. plocha (m2)",
+      "Stav",
+      "Cena s DPH"
+    ],
+    "column_count": 9
+  },
+  "errors": {
+    "header": {
+      "has_error": false,
+      "new_items": [],
+      "missing_items": []
+    }
+  },
+  "status": {
+    "scraped": "yes",
+    "scraped_flats": 30
+  },
+  "raw_flats": [
+    {
+      "Číslo bytu": "1",
+      "Poschodie": "2",
+      "Počet izieb": "3",
+      "Plocha bytu (m2)": "80,13",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "83,01",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "2",
+      "Poschodie": "2",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,72",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "2,78",
+      "Celk. plocha (m2)": "60,38",
+      "Stav": "Predrezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "3",
+      "Poschodie": "2",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "45,36",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "7,36",
+      "Celk. plocha (m2)": "52,72",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "4",
+      "Poschodie": "2",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "3,65",
+      "Celk. plocha (m2)": "29,96",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "5",
+      "Poschodie": "2",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "3,65",
+      "Celk. plocha (m2)": "29,96",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "6",
+      "Poschodie": "2",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,16",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "14,98",
+      "Celk. plocha (m2)": "69,14",
+      "Stav": "Voľný",
+      "Cena s DPH": "VYŽIADAŤ"
+    },
+    {
+      "Číslo bytu": "7",
+      "Poschodie": "2",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "8",
+      "Poschodie": "2",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "9",
+      "Poschodie": "2",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "34,80",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "37,68",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "10",
+      "Poschodie": "3",
+      "Počet izieb": "3",
+      "Plocha bytu (m2)": "80,13",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "83,01",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "11",
+      "Poschodie": "3",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,72",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "57,60",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "12",
+      "Poschodie": "3",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "45,36",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "48,24",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "13",
+      "Poschodie": "3",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,19",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "14",
+      "Poschodie": "3",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,19",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "15",
+      "Poschodie": "3",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,16",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "57,04",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "16",
+      "Poschodie": "3",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "17",
+      "Poschodie": "3",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "18",
+      "Poschodie": "3",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "34,80",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "37,68",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "19",
+      "Poschodie": "4",
+      "Počet izieb": "3",
+      "Plocha bytu (m2)": "80,13",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "83,01",
+      "Stav": "Voľný",
+      "Cena s DPH": "VYŽIADAŤ"
+    },
+    {
+      "Číslo bytu": "20",
+      "Poschodie": "4",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,72",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "57,60",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "21",
+      "Poschodie": "4",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "45,36",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "48,24",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "22",
+      "Poschodie": "4",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,19",
+      "Stav": "Predrezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "23",
+      "Poschodie": "4",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,31",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,19",
+      "Stav": "Voľný",
+      "Cena s DPH": "VYŽIADAŤ"
+    },
+    {
+      "Číslo bytu": "24",
+      "Poschodie": "4",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "54,16",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "57,04",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "25",
+      "Poschodie": "4",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Predaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "26",
+      "Poschodie": "4",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "26,90",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "29,78",
+      "Stav": "Predrezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "27",
+      "Poschodie": "4",
+      "Počet izieb": "1",
+      "Plocha bytu (m2)": "34,80",
+      "Terasa 1(m2)": "2,88",
+      "Terasa 2(m2)": "",
+      "Celk. plocha (m2)": "37,68",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "28",
+      "Poschodie": "5",
+      "Počet izieb": "2",
+      "Plocha bytu (m2)": "57,45",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "46",
+      "Celk. plocha (m2)": "103,45",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "29",
+      "Poschodie": "5",
+      "Počet izieb": "3",
+      "Plocha bytu (m2)": "67,47",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "18,90",
+      "Celk. plocha (m2)": "86,37",
+      "Stav": "Rezervovaný",
+      "Cena s DPH": ""
+    },
+    {
+      "Číslo bytu": "30",
+      "Poschodie": "5",
+      "Počet izieb": "4",
+      "Plocha bytu (m2)": "108,29",
+      "Terasa 1(m2)": "",
+      "Terasa 2(m2)": "34,50",
+      "Celk. plocha (m2)": "128,29",
+      "Stav": "Voľný",
+      "Cena s DPH": "VYŽIADAŤ"
+    }
+  ],
+  "clean_flats": [
+    {
+      "flat_name": "1",
+      "flat_floor": "2",
+      "flat_rooms": "3",
+      "flat_area_netto": 80.13,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "2",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.72,
+      "flat_balcony": 2.88,
+      "flat_terrace": 2.78,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "3",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 45.36,
+      "flat_balcony": 0,
+      "flat_terrace": 7.36,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "4",
+      "flat_floor": "2",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 0,
+      "flat_terrace": 3.65,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "5",
+      "flat_floor": "2",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 0,
+      "flat_terrace": 3.65,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "6",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.16,
+      "flat_balcony": 0,
+      "flat_terrace": 14.98,
+      "flat_status": 1,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "7",
+      "flat_floor": "2",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "8",
+      "flat_floor": "2",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "9",
+      "flat_floor": "2",
+      "flat_rooms": "1",
+      "flat_area_netto": 34.8,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "10",
+      "flat_floor": "3",
+      "flat_rooms": "3",
+      "flat_area_netto": 80.13,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "11",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.72,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "12",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 45.36,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "13",
+      "flat_floor": "3",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "14",
+      "flat_floor": "3",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "15",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.16,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "16",
+      "flat_floor": "3",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "17",
+      "flat_floor": "3",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "18",
+      "flat_floor": "3",
+      "flat_rooms": "1",
+      "flat_area_netto": 34.8,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "19",
+      "flat_floor": "4",
+      "flat_rooms": "3",
+      "flat_area_netto": 80.13,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 1,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "20",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.72,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "21",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 45.36,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "22",
+      "flat_floor": "4",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "23",
+      "flat_floor": "4",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.31,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 1,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "24",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 54.16,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "25",
+      "flat_floor": "4",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 3,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "26",
+      "flat_floor": "4",
+      "flat_rooms": "1",
+      "flat_area_netto": 26.9,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "27",
+      "flat_floor": "4",
+      "flat_rooms": "1",
+      "flat_area_netto": 34.8,
+      "flat_balcony": 2.88,
+      "flat_terrace": 0,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "28",
+      "flat_floor": "5",
+      "flat_rooms": "2",
+      "flat_area_netto": 57.45,
+      "flat_balcony": 0,
+      "flat_terrace": 46,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "29",
+      "flat_floor": "5",
+      "flat_rooms": "3",
+      "flat_area_netto": 67.47,
+      "flat_balcony": 0,
+      "flat_terrace": 18.9,
+      "flat_status": 2,
+      "flat_price": 0
+    },
+    {
+      "flat_name": "30",
+      "flat_floor": "5",
+      "flat_rooms": "4",
+      "flat_area_netto": 108.29,
+      "flat_balcony": 0,
+      "flat_terrace": 34.5,
+      "flat_status": 1,
+      "flat_price": 0
+    }
+  ]
+}

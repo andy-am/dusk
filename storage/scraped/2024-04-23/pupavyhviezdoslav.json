@@ -1,0 +1,1990 @@
+{
+  "header": {
+    "column_names": [
+      "Byt",
+      "Počet izieb",
+      "Podlažie",
+      "Interiér",
+      "Exteriér",
+      "Spolu",
+      "Cena",
+      "Stav"
+    ],
+    "column_count": 8
+  },
+  "errors": {
+    "header": {
+      "has_error": false,
+      "new_items": [],
+      "missing_items": []
+    }
+  },
+  "status": {
+    "scraped": "yes",
+    "scraped_flats": 98
+  },
+  "raw_flats": [
+    {
+      "Byt": "D1-101",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "73,6 m2",
+      "Exteriér": "62,5 m2",
+      "Spolu": "136,1 m2",
+      "Cena": "216 740 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-102",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "169 816 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-103",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,0 m2",
+      "Spolu": "69,1 m2",
+      "Cena": "134 100 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-104",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,0 m2",
+      "Spolu": "69,1 m2",
+      "Cena": "134 100 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-105",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "169 816 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-106",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "73,4 m2",
+      "Exteriér": "77,0 m2",
+      "Spolu": "150,3 m2",
+      "Cena": "220 702 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-201",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "75,8 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,8 m2",
+      "Cena": "219 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-202",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-203",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": 0,
+      "Stav": "Predaný"
+    },
+    {
+      "Byt": "D1-204",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,4 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,4 m2",
+      "Cena": "106 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-205",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-206",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "75,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,6 m2",
+      "Cena": "218 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-301",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "73,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,5 m2",
+      "Cena": "217 200 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-302",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-303",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-304",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-305",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-306",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "73,4 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,3 m2",
+      "Cena": "216 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-401",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "75,8 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,8 m2",
+      "Cena": "231 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-402",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": 0,
+      "Stav": "Predaný"
+    },
+    {
+      "Byt": "D1-403",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": 0,
+      "Stav": "Predaný"
+    },
+    {
+      "Byt": "D1-404",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "109 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-405",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "162 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-406",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "75,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,6 m2",
+      "Cena": "230 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-501",
+      "Počet izieb": "3",
+      "Podlažie": "5",
+      "Interiér": "72,9 m2",
+      "Exteriér": "8,3 m2",
+      "Spolu": "81,2 m2",
+      "Cena": "226 100 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-502",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "44,2 m2",
+      "Exteriér": "7,5 m2",
+      "Spolu": "51,8 m2",
+      "Cena": "151 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-503",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "55,2 m2",
+      "Exteriér": "9,4 m2",
+      "Spolu": "64,7 m2",
+      "Cena": "188 700 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-504",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "44,2 m2",
+      "Exteriér": "7,5 m2",
+      "Spolu": "51,8 m2",
+      "Cena": "151 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D1-505",
+      "Počet izieb": "3",
+      "Podlažie": "5",
+      "Interiér": "72,7 m2",
+      "Exteriér": "8,3 m2",
+      "Spolu": "81,0 m2",
+      "Cena": "225 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-101",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "75,8 m2",
+      "Exteriér": "62,7 m2",
+      "Spolu": "138,5 m2",
+      "Cena": "222 252 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-102",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "169 716 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-103",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,0 m2",
+      "Spolu": "69,1 m2",
+      "Cena": "133 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-104",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,0 m2",
+      "Spolu": "69,1 m2",
+      "Cena": "133 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-105",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "169 716 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-106",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "75,6 m2",
+      "Exteriér": "70,7 m2",
+      "Spolu": "146,3 m2",
+      "Cena": "224 550 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-201",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "75,8 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,8 m2",
+      "Cena": "219 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-202",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 700 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-203",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": 0,
+      "Stav": "Predaný"
+    },
+    {
+      "Byt": "D2-204",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "104 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-205",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 700 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-206",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "73,4 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,3 m2",
+      "Cena": "212 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-301",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "75,8 m2",
+      "Exteriér": "8,7 m2",
+      "Spolu": "84,6 m2",
+      "Cena": "223 100 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-302",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-303",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-304",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-305",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-306",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "75,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "84,6 m2",
+      "Cena": "222 200 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-401",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "73,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,5 m2",
+      "Cena": "225 100 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-402",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "162 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-403",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "109 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-404",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "109 800 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-405",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "162 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-406",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "73,4 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,3 m2",
+      "Cena": "223 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-501",
+      "Počet izieb": "3",
+      "Podlažie": "5",
+      "Interiér": "75,2 m2",
+      "Exteriér": "7,5 m2",
+      "Spolu": "82,6 m2",
+      "Cena": "230 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-502",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "44,2 m2",
+      "Exteriér": "6,4 m2",
+      "Spolu": "50,6 m2",
+      "Cena": "149 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-503",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "55,2 m2",
+      "Exteriér": "9,4 m2",
+      "Spolu": "64,7 m2",
+      "Cena": "188 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-504",
+      "Počet izieb": "2",
+      "Podlažie": "5",
+      "Interiér": "44,2 m2",
+      "Exteriér": "7,5 m2",
+      "Spolu": "51,8 m2",
+      "Cena": "151 400 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "D2-505",
+      "Počet izieb": "3",
+      "Podlažie": "5",
+      "Interiér": "75,0 m2",
+      "Exteriér": "8,3 m2",
+      "Spolu": "83,3 m2",
+      "Cena": "232 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-101",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "68,0 m2",
+      "Exteriér": "70,2 m2",
+      "Spolu": "138,3 m2",
+      "Cena": "213 263 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-102",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "169 616 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-103",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,0 m2",
+      "Spolu": "69,1 m2",
+      "Cena": "133 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-104",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "64,3 m2",
+      "Spolu": "115,2 m2",
+      "Cena": "175 716 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-105",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "68,0 m2",
+      "Exteriér": "58,2 m2",
+      "Spolu": "126,2 m2",
+      "Cena": "209 125 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-201",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "69,2 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "78,1 m2",
+      "Cena": "208 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-202",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-203",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "104 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-204",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-205",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "69,2 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "78,1 m2",
+      "Cena": "208 500 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-301",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "73,6 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "82,5 m2",
+      "Cena": "224 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-302",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-303",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 400 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-304",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-305",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "68,0 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "77,0 m2",
+      "Cena": "211 700 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-401",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "69,2 m2",
+      "Exteriér": "9,8 m2",
+      "Spolu": "79,0 m2",
+      "Cena": "224 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-402",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "165 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-403",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "111 700 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-404",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "165 400 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E1-405",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "69,2 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "78,1 m2",
+      "Cena": "226 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-101",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "68,0 m2",
+      "Exteriér": "222,8 m2",
+      "Spolu": "290,8 m2",
+      "Cena": "255 029 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-102",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,0 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "172 250 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-103",
+      "Počet izieb": "1",
+      "Podlažie": "1",
+      "Interiér": "34,0 m2",
+      "Exteriér": "35,6 m2",
+      "Spolu": "69,7 m2",
+      "Cena": "136 200 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-104",
+      "Počet izieb": "2",
+      "Podlažie": "1",
+      "Interiér": "50,9 m2",
+      "Exteriér": "60,1 m2",
+      "Spolu": "110,9 m2",
+      "Cena": "172 416 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-105",
+      "Počet izieb": "3",
+      "Podlažie": "1",
+      "Interiér": "68,0 m2",
+      "Exteriér": "60,4 m2",
+      "Spolu": "128,4 m2",
+      "Cena": "207 850 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-201",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "68,0 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "77,0 m2",
+      "Cena": "198 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-202",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-203",
+      "Počet izieb": "1",
+      "Podlažie": "2",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "104 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-204",
+      "Počet izieb": "2",
+      "Podlažie": "2",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "154 600 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-205",
+      "Počet izieb": "3",
+      "Podlažie": "2",
+      "Interiér": "68,0 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "77,0 m2",
+      "Cena": "198 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-301",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "69,2 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "78,1 m2",
+      "Cena": "204 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-302",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-303",
+      "Počet izieb": "1",
+      "Podlažie": "3",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": "106 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-304",
+      "Počet izieb": "2",
+      "Podlažie": "3",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "157 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-305",
+      "Počet izieb": "3",
+      "Podlažie": "3",
+      "Interiér": "69,2 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "78,1 m2",
+      "Cena": "207 900 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-401",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "68,0 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "77,0 m2",
+      "Cena": "217 000 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-402",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "165 300 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-403",
+      "Počet izieb": "1",
+      "Podlažie": "4",
+      "Interiér": "34,0 m2",
+      "Exteriér": "0,0 m2",
+      "Spolu": "34,0 m2",
+      "Cena": 0,
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Byt": "E2-404",
+      "Počet izieb": "2",
+      "Podlažie": "4",
+      "Interiér": "50,9 m2",
+      "Exteriér": "3,2 m2",
+      "Spolu": "54,0 m2",
+      "Cena": "165 400 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Byt": "E2-405",
+      "Počet izieb": "3",
+      "Podlažie": "4",
+      "Interiér": "68,0 m2",
+      "Exteriér": "8,9 m2",
+      "Spolu": "77,0 m2",
+      "Cena": "215 800 €",
+      "Stav": "Voľný"
+    }
+  ],
+  "clean_flats": [
+    {
+      "flat_name": "D1-101",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 73.6,
+      "flat_area_exterier": 62.5,
+      "flat_area_brutto": 136.1,
+      "flat_price": 216740,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-102",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 169816,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-103",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35,
+      "flat_area_brutto": 69.1,
+      "flat_price": 134100,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-104",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35,
+      "flat_area_brutto": 69.1,
+      "flat_price": 134100,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-105",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 169816,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-106",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 73.4,
+      "flat_area_exterier": 77,
+      "flat_area_brutto": 150.3,
+      "flat_price": 220702,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-201",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 75.8,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.8,
+      "flat_price": 219300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-202",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-203",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 0,
+      "flat_status": 3
+    },
+    {
+      "flat_name": "D1-204",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34.4,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34.4,
+      "flat_price": 106000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-205",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-206",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 75.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.6,
+      "flat_price": 218800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-301",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 73.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.5,
+      "flat_price": 217200,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-302",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-303",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-304",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-305",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-306",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 73.4,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.3,
+      "flat_price": 216000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-401",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 75.8,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.8,
+      "flat_price": 231500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-402",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 0,
+      "flat_status": 3
+    },
+    {
+      "flat_name": "D1-403",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 0,
+      "flat_status": 3
+    },
+    {
+      "flat_name": "D1-404",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 109900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-405",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 162800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-406",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 75.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.6,
+      "flat_price": 230300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-501",
+      "flat_rooms": "3",
+      "flat_floor": "5",
+      "flat_area_netto": 72.9,
+      "flat_area_exterier": 8.3,
+      "flat_area_brutto": 81.2,
+      "flat_price": 226100,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-502",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 44.2,
+      "flat_area_exterier": 7.5,
+      "flat_area_brutto": 51.8,
+      "flat_price": 151600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-503",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 55.2,
+      "flat_area_exterier": 9.4,
+      "flat_area_brutto": 64.7,
+      "flat_price": 188700,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-504",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 44.2,
+      "flat_area_exterier": 7.5,
+      "flat_area_brutto": 51.8,
+      "flat_price": 151600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D1-505",
+      "flat_rooms": "3",
+      "flat_floor": "5",
+      "flat_area_netto": 72.7,
+      "flat_area_exterier": 8.3,
+      "flat_area_brutto": 81,
+      "flat_price": 225000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-101",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 75.8,
+      "flat_area_exterier": 62.7,
+      "flat_area_brutto": 138.5,
+      "flat_price": 222252,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-102",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 169716,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-103",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35,
+      "flat_area_brutto": 69.1,
+      "flat_price": 133900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-104",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35,
+      "flat_area_brutto": 69.1,
+      "flat_price": 133900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-105",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 169716,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-106",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 75.6,
+      "flat_area_exterier": 70.7,
+      "flat_area_brutto": 146.3,
+      "flat_price": 224550,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-201",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 75.8,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.8,
+      "flat_price": 219300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-202",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154700,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-203",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 0,
+      "flat_status": 3
+    },
+    {
+      "flat_name": "D2-204",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 104600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-205",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154700,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-206",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 73.4,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.3,
+      "flat_price": 212600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-301",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 75.8,
+      "flat_area_exterier": 8.7,
+      "flat_area_brutto": 84.6,
+      "flat_price": 223100,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-302",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-303",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-304",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-305",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-306",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 75.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 84.6,
+      "flat_price": 222200,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-401",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 73.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.5,
+      "flat_price": 225100,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-402",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 162600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-403",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 109800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-404",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 109800,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-405",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 162600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-406",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 73.4,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.3,
+      "flat_price": 223900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-501",
+      "flat_rooms": "3",
+      "flat_floor": "5",
+      "flat_area_netto": 75.2,
+      "flat_area_exterier": 7.5,
+      "flat_area_brutto": 82.6,
+      "flat_price": 230900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-502",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 44.2,
+      "flat_area_exterier": 6.4,
+      "flat_area_brutto": 50.6,
+      "flat_price": 149500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-503",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 55.2,
+      "flat_area_exterier": 9.4,
+      "flat_area_brutto": 64.7,
+      "flat_price": 188600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-504",
+      "flat_rooms": "2",
+      "flat_floor": "5",
+      "flat_area_netto": 44.2,
+      "flat_area_exterier": 7.5,
+      "flat_area_brutto": 51.8,
+      "flat_price": 151400,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "D2-505",
+      "flat_rooms": "3",
+      "flat_floor": "5",
+      "flat_area_netto": 75,
+      "flat_area_exterier": 8.3,
+      "flat_area_brutto": 83.3,
+      "flat_price": 232000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-101",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 70.2,
+      "flat_area_brutto": 138.3,
+      "flat_price": 213263,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-102",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 169616,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-103",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35,
+      "flat_area_brutto": 69.1,
+      "flat_price": 133900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-104",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 64.3,
+      "flat_area_brutto": 115.2,
+      "flat_price": 175716,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-105",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 58.2,
+      "flat_area_brutto": 126.2,
+      "flat_price": 209125,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-201",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 78.1,
+      "flat_price": 208500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-202",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-203",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 104600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-204",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-205",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 78.1,
+      "flat_price": 208500,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-301",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 73.6,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 82.5,
+      "flat_price": 224900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-302",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-303",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106400,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-304",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-305",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 77,
+      "flat_price": 211700,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-401",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 9.8,
+      "flat_area_brutto": 79,
+      "flat_price": 224600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-402",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 165300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-403",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 111700,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-404",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 165400,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E1-405",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 78.1,
+      "flat_price": 226000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-101",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 222.8,
+      "flat_area_brutto": 290.8,
+      "flat_price": 255029,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-102",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60,
+      "flat_area_brutto": 110.9,
+      "flat_price": 172250,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-103",
+      "flat_rooms": "1",
+      "flat_floor": "1",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 35.6,
+      "flat_area_brutto": 69.7,
+      "flat_price": 136200,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-104",
+      "flat_rooms": "2",
+      "flat_floor": "1",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 60.1,
+      "flat_area_brutto": 110.9,
+      "flat_price": 172416,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-105",
+      "flat_rooms": "3",
+      "flat_floor": "1",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 60.4,
+      "flat_area_brutto": 128.4,
+      "flat_price": 207850,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-201",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 77,
+      "flat_price": 198000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-202",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-203",
+      "flat_rooms": "1",
+      "flat_floor": "2",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 104600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-204",
+      "flat_rooms": "2",
+      "flat_floor": "2",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 154600,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-205",
+      "flat_rooms": "3",
+      "flat_floor": "2",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 77,
+      "flat_price": 198000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-301",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 78.1,
+      "flat_price": 204900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-302",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-303",
+      "flat_rooms": "1",
+      "flat_floor": "3",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 106300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-304",
+      "flat_rooms": "2",
+      "flat_floor": "3",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 157300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-305",
+      "flat_rooms": "3",
+      "flat_floor": "3",
+      "flat_area_netto": 69.2,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 78.1,
+      "flat_price": 207900,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-401",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 77,
+      "flat_price": 217000,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-402",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 165300,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-403",
+      "flat_rooms": "1",
+      "flat_floor": "4",
+      "flat_area_netto": 34,
+      "flat_area_exterier": 0,
+      "flat_area_brutto": 34,
+      "flat_price": 0,
+      "flat_status": 2
+    },
+    {
+      "flat_name": "E2-404",
+      "flat_rooms": "2",
+      "flat_floor": "4",
+      "flat_area_netto": 50.9,
+      "flat_area_exterier": 3.2,
+      "flat_area_brutto": 54,
+      "flat_price": 165400,
+      "flat_status": 1
+    },
+    {
+      "flat_name": "E2-405",
+      "flat_rooms": "3",
+      "flat_floor": "4",
+      "flat_area_netto": 68,
+      "flat_area_exterier": 8.9,
+      "flat_area_brutto": 77,
+      "flat_price": 215800,
+      "flat_status": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "header": {
+    "column_names": [],
+    "column_count": 0
+  },
+  "errors": {
+    "header": {
+      "has_error": false,
+      "new_items": [],
+      "missing_items": []
+    }
+  },
+  "status": {
+    "scraped": "yes",
+    "scraped_flats": 0
+  },
+  "raw_flats": [],
+  "clean_flats": []
+}
