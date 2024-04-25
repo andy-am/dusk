@@ -1,0 +1,540 @@
+{
+  "header": {
+    "column_names": [
+      "Budova",
+      "Podlažie",
+      "Počet izieb",
+      "Plocha",
+      "Cena s DPH",
+      "Stav"
+    ],
+    "column_count": 6
+  },
+  "errors": {
+    "header": {
+      "has_error": false,
+      "new_items": [],
+      "missing_items": []
+    }
+  },
+  "status": {
+    "scraped": "yes",
+    "scraped_flats": 32
+  },
+  "raw_flats": [
+    {
+      "Budova": "A4",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "140 720 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "140 720 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "189 020 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "275 490 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "145 590 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "275 490 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "189 020 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A4",
+      "Podlažie": "5. podlažie",
+      "Počet izieb": "4",
+      "Plocha": "270,22 m²",
+      "Cena s DPH": "490 000 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "140 720 €",
+      "Stav": "Predaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "2. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "140 720 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "264 990 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "3. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "179 990 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "189 020 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "275 490 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "1,50",
+      "Plocha": "48,72 m²",
+      "Cena s DPH": "145 590 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "3",
+      "Plocha": "97,33 m²",
+      "Cena s DPH": "275 490 €",
+      "Stav": "Rezervovaný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "4. podlažie",
+      "Počet izieb": "2",
+      "Plocha": "65,01 m²",
+      "Cena s DPH": "189 020 €",
+      "Stav": "Voľný"
+    },
+    {
+      "Budova": "A3",
+      "Podlažie": "5. podlažie",
+      "Počet izieb": "4",
+      "Plocha": "270,22 m²",
+      "Cena s DPH": "490 000 €",
+      "Stav": "Rezervovaný"
+    }
+  ],
+  "clean_flats": [
+    {
+      "object_block": "A4",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "2",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "2",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 140720,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "2",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "3",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "3",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 140720,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "3",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 189020,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "4",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 275490,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "4",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 145590,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "4",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 275490,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 189020,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A4",
+      "flat_floor": "5",
+      "flat_rooms": "4",
+      "flat_area_netto": 270.22,
+      "flat_price": 490000,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "2",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "2",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 140720,
+      "flat_status": 3
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "2",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "2",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "3",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "3",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 140720,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "3",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 264990,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "3",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 179990,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 189020,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "4",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 275490,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "4",
+      "flat_rooms": "1,50",
+      "flat_area_netto": 48.72,
+      "flat_price": 145590,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "4",
+      "flat_rooms": "3",
+      "flat_area_netto": 97.33,
+      "flat_price": 275490,
+      "flat_status": 2
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "4",
+      "flat_rooms": "2",
+      "flat_area_netto": 65.01,
+      "flat_price": 189020,
+      "flat_status": 1
+    },
+    {
+      "object_block": "A3",
+      "flat_floor": "5",
+      "flat_rooms": "4",
+      "flat_area_netto": 270.22,
+      "flat_price": 490000,
+      "flat_status": 2
+    }
+  ]
+}

@@ -2,11 +2,13 @@
 
 namespace Tests\Browser;
 
-use Illuminate\Foundation\Testing\DatabaseMigrations;
-use Laravel\Dusk\Browser;
 use Tests\DuskTestCase;
+use Laravel\Dusk\Browser;
+use File;
+use Carbon\Carbon;
+use Facebook\WebDriver\WebDriverBy;
 
-class ExampleTest extends DuskTestCase
+class SuchyVrchTest extends DuskTestCase
 {
     private $config = [
         'url' => 'odkaz-na-cennik',

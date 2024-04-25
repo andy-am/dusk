@@ -2,21 +2,23 @@
 
 namespace Tests\Browser;
 
-use Illuminate\Foundation\Testing\DatabaseMigrations;
-use Laravel\Dusk\Browser;
 use Tests\DuskTestCase;
+use Laravel\Dusk\Browser;
+use File;
+use Carbon\Carbon;
+use Facebook\WebDriver\WebDriverBy;
 
-class ExampleTest extends DuskTestCase
+class BkstrazeTest extends DuskTestCase
 {
     private $config = [
-        'url' => 'odkaz-na-cennik',
+        'url' => 'https://bkstraze.sk/budovy',
         'wait_time' => 2000,
-        'name' => 'Názov projektu',
-        'slug' => 'nazovprojektu',
+        'name' => 'Zvolen Stráže',
+        'slug' => 'bkstraze',
         'pricelist_head_element' => 'table thead',
         'pricelist_body_element' => 'table tbody',
         'pricelist_excluded_rows' => false,
-        'pricelist_allowed_rows_class' => 'normal.row',
+        'pricelist_allowed_rows_class' => '',
         'assert_text' => false,
         'use_cell_html' => false,
         'yesterday' => '',
@@ -27,7 +29,7 @@ class ExampleTest extends DuskTestCase
     
     /**
      * @test
-     * @group nazovprojektu
+     * @group bkstraze
      */
     public function scrapeData()
     {
@@ -73,9 +75,9 @@ class ExampleTest extends DuskTestCase
 //            $browser->driver->executeScript('document.querySelector(\'.element-class\').click();');
 //            $browser->driver->executeScript('document.querySelectorAll(\'.element-class\').forEach(element => element.style.display=\'initial\');');
 //            $browser->driver->executeScript('window.scrollTo(0, 25000);');
-            
+            //> div > table > tbody > tr:nth-child(1)
             // NOTE: header scraping and check
-            $ths = $browser->elements($this->config['pricelist_head_element'].' tr th');
+            $ths = $browser->elements($this->config['pricelist_head_element'].' > tr th');
             
             foreach($ths as $th) {
                 $classes = explode(' ', $th->getAttribute('class'));
@@ -86,6 +88,8 @@ class ExampleTest extends DuskTestCase
                     $header['column_names'][] = $text;
                 }
             }
+            
+            //dd($header);
             
             $header['column_count'] = count($header['column_names']);
             
@@ -119,7 +123,7 @@ class ExampleTest extends DuskTestCase
             }
             
             // NOTE: raw row data scraping
-            $trs = $browser->elements($this->config['pricelist_body_element'].'> tr');
+            $trs = $browser->elements($this->config['pricelist_body_element'].' > tr');
             
             
             foreach($trs as $trKey => $tr) {
@@ -128,7 +132,7 @@ class ExampleTest extends DuskTestCase
                     $classes = explode(' ', $tr->getAttribute('class'));
                     
                     if(in_array($this->config['pricelist_allowed_rows_class'], $classes)) {
-                        $tds = $browser->elements($this->config['pricelist_body_element'].'> tr:nth-child('.($trKey).') > td');
+                        $tds = $browser->elements($this->config['pricelist_body_element'].' > tr:nth-child('.($trKey).') > td');
                         
                         $cleanedTds = [];
                         
